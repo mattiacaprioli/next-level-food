@@ -9,8 +9,10 @@ html {
 }
 
 body {
+  width: 100%;
   margin: 0;
   background: radial-gradient(#282c34, #282c34);
+  border: 1px solid red;
 }
 
 .not-found,
