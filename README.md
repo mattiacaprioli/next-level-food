@@ -1,14 +1,14 @@
 # Next-Level-Food
 
-Il sito è una moderna applicazione web sviluppata in **React** che offre un'interfaccia intuitiva per esplorare dati cruciali sul riscaldamento globale.
+Il sito è una moderna applicazione web sviluppata in **Next** che offre un'interfaccia intuitiva.
 
 ## Funzionalità
 
-All'apertura del sito, gli utenti saranno accolti da una breve introduzione al tema del cambiamento climatico. Questo commento iniziale ci aiuta a mettere in prospettiva l'importanza di comprendere il problema e agire di conseguenza. Subito dopo, forniamo agli utenti la possibilità di selezionare e visualizzare diversi tipi di dati relativi al nostro pianeta Terra. Si potrà esplorare informazioni dettagliate su vari aspetti, consentendoti di analizzare il nostro ambiente globale in modi diversi.
+Cibo al Prossimo Livello porta il tuo viaggio culinario al livello successivo. Con una collezione di ricette da tutto il mondo, gli utenti possono esplorare diverse cucine e stili di cottura. Che tu stia desiderando pasta italiana, curry indiano o sushi giapponese, siamo qui per te. Ma non è tutto: gli utenti possono anche contribuire con le proprie ricette, aggiungendo un tocco personale al nostro database culinario.
 
 ## Link deploy dell'app con Netlify
 
-[Climate Dashboard](https://climatedashboard.netlify.app/)
+[Next Level Food](https://next-level-food.netlify.app)
 
 ## Screenshot
 
