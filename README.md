@@ -12,7 +12,7 @@ All'apertura del sito, gli utenti saranno accolti da una breve introduzione al t
 
 ## Screenshot
 
-![Banner](https://github.com/mattiacaprioli/next-level-food/blob/main/src/assets/next-level-food.png)
+![Banner](https://github.com/mattiacaprioli/next-level-food/blob/main/assets/next-level-food.png)
 
 ## Tecnologie utilizzate
 
